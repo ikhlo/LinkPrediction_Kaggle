@@ -17,9 +17,9 @@ This project have been done in collaboration by [Ikhlass Yaya-Oyé](https://gith
 
 ## You will find in this repositery : 
 * A [LaTeX report of our work](https://github.com/ikhlo/LinkPrediction_Kaggle/blob/main/ALTEGRAD_Report.pdf)
-* The [available data](https://github.com/thomastrg/LinkPrediction_Kaggle/tree/main/data_challenge_2021)
-* The [notebook about gnn training](https://github.com/thomastrg/LinkPrediction_Kaggle/blob/main/code/train_gnn.py)
-* The [main code](https://github.com/thomastrg/LinkPrediction_Kaggle/tree/main/code)
+* The [available data](https://github.com/ikhlo/LinkPrediction_Kaggle/tree/main/data_challenge_2021)
+* The [python file about gnn training](https://github.com/ikhlo/LinkPrediction_Kaggle/blob/main/code/train_gnn.py)
+* The [main code](https://github.com/ikhlo/LinkPrediction_Kaggle/tree/main/code)
 <br> 
 
 ## Conclusion : 
